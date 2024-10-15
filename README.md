@@ -1,2 +1,2 @@
-# indexed-vs-non-indexed
+# Readme
 A comparison between Indexed and Non-Indexed.
