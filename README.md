@@ -1,2 +1,2 @@
 # Readme
-A comparison between Indexed and Non-Indexed.
+A comparison between Unindexed and Indexed.
